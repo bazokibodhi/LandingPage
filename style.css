@@ -29,3 +29,15 @@ header {
     font-weight: bold;
     color: #f9faf8;
 }
+
+.header-links {
+    display: flex;
+    list-style-type: none;
+    gap: 45px;
+}
+
+.header-links a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #e5e7eb;
+}
