@@ -65,3 +65,13 @@ header {
     color: #e5e7eb;
     margin-bottom: 20px;
 }
+
+.hero-image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    border-radius: 15px;
+    border: none;
+}
