@@ -90,3 +90,35 @@ button {
 button:hover {
     background-color: #2a6fd3;
 }
+
+.info-section {
+    padding: 50px 20%;
+    text-align: center;
+    font-weight: bold;
+}
+
+.info-section h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    margin-bottom: 30px;
+}
+
+.info-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+}
+
+.cards {
+    width: 200px;
+}
+
+.card-images {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #3882f6;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
